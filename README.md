@@ -1,20 +1,7 @@
 Introducción a la Programación
 PRÁCTICA OBLIGATORIA GRUPAL
 Carrera de motociclismo
-<a href="www.google.es">sdasf</a>
-IP 2014 Carlos, Raul, Jose Miguel.
-
-Practica sobre motos
-
-Cambio realizado desde la web (prueba)
-
-<html>
-<head>
-<meta charset="utf-8">
-<title>Documento sin título</title>
-</head>
-
-<body>
+Practica IP 2014 Carlos, Raul, Jose Miguel.
 <center>
 Los organizadores de la carrera de motociclismo quieren realizar un nuevo programa<br>
 para simular la gestión y la realización de una carrera. Se sabe que el número de equipos<br>
@@ -68,5 +55,3 @@ pantalla.<br>
 opción permitirá al usuario elegir el nombre de un archivo de texto y mostrará su<br>
 contenido por pantalla. Si el archivo no existe, mostrará un mensaje por pantalla.
 </center>
-</body>
-</html>

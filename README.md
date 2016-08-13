@@ -1,8 +1,8 @@
 <p align="center">
-                                            Introducción a la Programación
-                                            PRÁCTICA OBLIGATORIA GRUPAL
-                                            Carrera de motociclismo
-                                            Practica IP 2014 Carlos, Raul, Jose Miguel.
+Introducción a la Programación<br>
+PRÁCTICA OBLIGATORIA GRUPAL<br>
+Carrera de motociclismo<br>
+2014 Carlos, Raul, Jose Miguel.<br>
 Los organizadores de la carrera de motociclismo quieren realizar un nuevo programa<br>
 para simular la gestión y la realización de una carrera. Se sabe que el número de equipos<br>
 que disputan las carreras puede cambiar, pero como máximo corren 24 equipos. De cada<br>

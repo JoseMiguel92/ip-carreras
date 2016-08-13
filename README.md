@@ -1,8 +1,9 @@
 <p align="center">
-Introducción a la Programación<br>
+<strong>Introducción a la Programación<br>
 PRÁCTICA OBLIGATORIA GRUPAL<br>
 Carrera de motociclismo<br>
 2014 Carlos, Raul, Jose Miguel.<br>
+</strong>
 </p>
 <p align="justify">
 Los organizadores de la carrera de motociclismo quieren realizar un nuevo programa
@@ -34,6 +35,7 @@ ese momento se almacenaran los nuevos datos del equipo.<br>
 <br>
 <strong>D</strong>. Listado de equipos. Con esta opción se mostrará un listado de todos los
 equipos, con toda su información.<br>
+<br>
 <strong>E</strong>. Modificar circuito. Esta funcionalidad mostrara por pantalla los datos del
 circuito actual y permite cambiar la distancia de rectas y curvas del circuito. Hay
 que tener en cuenta que las distancias no pueden ser negativas.<br>

@@ -1,8 +1,7 @@
-                                            Introducción a la Programación
-PRÁCTICA OBLIGATORIA GRUPAL
-Carrera de motociclismo
-Practica IP 2014 Carlos, Raul, Jose Miguel.
-<center>
+                                            Introducción a la Programación<br>
+                                            PRÁCTICA OBLIGATORIA GRUPAL<br>
+                                            Carrera de motociclismo<br>
+                                            Practica IP 2014 Carlos, Raul, Jose Miguel.<br>
 Los organizadores de la carrera de motociclismo quieren realizar un nuevo programa<br>
 para simular la gestión y la realización de una carrera. Se sabe que el número de equipos<br>
 que disputan las carreras puede cambiar, pero como máximo corren 24 equipos. De cada<br>
@@ -54,4 +53,3 @@ pantalla.<br>
 <strong>K</strong>. Mostrar la clasificación de una carrera almacenada en un archivo. Esta<br>
 opción permitirá al usuario elegir el nombre de un archivo de texto y mostrará su<br>
 contenido por pantalla. Si el archivo no existe, mostrará un mensaje por pantalla.
-</center>

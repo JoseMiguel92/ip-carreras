@@ -1,3 +1,4 @@
+<p align="center">
                                             Introducción a la Programación
                                             PRÁCTICA OBLIGATORIA GRUPAL
                                             Carrera de motociclismo
@@ -53,3 +54,4 @@ pantalla.<br>
 <strong>K</strong>. Mostrar la clasificación de una carrera almacenada en un archivo. Esta<br>
 opción permitirá al usuario elegir el nombre de un archivo de texto y mostrará su<br>
 contenido por pantalla. Si el archivo no existe, mostrará un mensaje por pantalla.
+</p>

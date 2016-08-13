@@ -4,13 +4,13 @@ PRÁCTICA OBLIGATORIA GRUPAL<br>
 Carrera de motociclismo<br>
 2014 Carlos, Raul, Jose Miguel.<br>
 </p>
-Los organizadores de la carrera de motociclismo quieren realizar un nuevo programa<br>
-para simular la gestión y la realización de una carrera. Se sabe que el número de equipos<br>
-que disputan las carreras puede cambiar, pero como máximo corren 24 equipos. De cada<br>
-equipo se guarda información sobre la moto y sobre el piloto (ver tipos de datos al final<br>
-del enunciado). La carrera se disputa en un circuito, que inicialmente tiene un kilómetro<br>
-de rectas y un kilómetro de curvas. El tiempo que tarda cada equipo en completar una<br>
-vuelta depende de las velocidades de las motos que usan. El tiempo se inicializará a 0<br>
+Los organizadores de la carrera de motociclismo quieren realizar un nuevo programa
+para simular la gestión y la realización de una carrera. Se sabe que el número de equipos
+que disputan las carreras puede cambiar, pero como máximo corren 24 equipos. De cada
+equipo se guarda información sobre la moto y sobre el piloto (ver tipos de datos al final
+del enunciado). La carrera se disputa en un circuito, que inicialmente tiene un kilómetro
+de rectas y un kilómetro de curvas. El tiempo que tarda cada equipo en completar una
+vuelta depende de las velocidades de las motos que usan. El tiempo se inicializará a 0
 segundos.<br>
 Se desea poder simular una carrera y mostrar la clasificación final. Las opciones que<br>
 debe incluir el nuevo programa serán:<br>
@@ -51,6 +51,7 @@ empleado en la carrera y posteriormente mostrarlos.<br>
 <strong>H</strong>. Guardar datos de la clasificación. En esta opción se escribirá en un fichero de<br>
 texto, cuyo nombre se preguntará al usuario, una línea por cada equipo, con el<br>
 nombre del equipo, el nombre del piloto y el tiempo dado.<br>
+<br>
 <strong>I</strong>. Guardar los equipos. Esta opción permite almacenar la información de todos<br>
 los equipos de carrera en un fichero binario, denominado necesariamente<br>
 “equipo.dat”. Se debe almacenar únicamente los datos del equipo (solo los<br>
